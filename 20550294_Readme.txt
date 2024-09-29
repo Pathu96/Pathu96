@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @Pathu96
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-Pathu96/Pathu96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Web-Based Formula Record System for Ayurvedic Product Development
+
+## Abstract
+
+This Readme presents the development and implementation of a web-based Formula Record System tailored for Ayurvedic Product Development laboratories. The project addresses the challenges posed by manual record-keeping methods, offering a digital solution to streamline formula management processes. The study begins with a comprehensive introduction to the problem domain, motivations behind the research, and outlines the project objectives. 
+
+Drawing from existing literature and technologies, the system architecture is designed using HTML, Bootstrap, PHP, and MVC architecture to ensure mobile-friendly accessibility and scalability. Throughout the development process, Agile methodologies are employed to foster iterative refinement and stakeholder collaboration. 
+
+The thesis delves into the testing and evaluation strategies utilized, including both manual and automated testing approaches. A thorough examination of user feedback and stakeholder engagement informs continuous improvement efforts. The system also enhances product quality in formulation by providing suggestions and an early warning system for hazards and allergies. 
+
+Future directions for system enhancement and expansion are discussed, aiming to further optimize data accuracy, accessibility, and security. Through this endeavor, the thesis contributes to the advancement of laboratory informatics in the realm of Ayurvedic product development, offering a robust digital infrastructure to support research and innovation in this field.
+
+## Features
+
+- **User-Friendly Interface**: Built with HTML and Bootstrap for a responsive design.
+- **Scalable Architecture**: Developed using PHP and MVC architecture for ease of maintenance and growth.
+- **Agile Methodologies**: Iterative development to ensure continuous improvement based on user feedback.
+- **Testing Strategies**: Comprehensive testing framework to ensure reliability and performance.
+- **Hazard and Allergy Warnings**: Integrated system to enhance product safety.
+- **Future Enhancements**: Plans for improving data accuracy, accessibility, and security.
+
+## Technologies Used
+
+- **HTML**
+- **Bootstrap**
+- **PHP**
+- **MVC Architecture**
+
+## Installation
+ -- This is Web appliation--
+
+
